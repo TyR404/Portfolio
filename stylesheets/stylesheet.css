@@ -77,3 +77,20 @@ body {
   background-image: url("/pictures/light-background.jpg");
   margin: 3px;
 }
+
+footer {
+  padding-bottom: 15px;
+  padding-left: 25px;
+  background: #121212;
+  color: #ebebeb;
+  font-size: 20px;
+}
+
+footer > p {
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: 20px;
+  padding: 15px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
