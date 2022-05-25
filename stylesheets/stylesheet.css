@@ -28,7 +28,7 @@ nav > ul {
 
   justify-content: space-between;
   width: 100%;
-  background-color: #ebebeb;
+  background-image: url("/pictures/light-background.jpg");
 }
 
 .nav-link:link,
@@ -71,4 +71,9 @@ a {
   nav {
     position: static;
   }
+}
+
+body {
+  background-image: url("/pictures/light-background.jpg");
+  margin: 3px;
 }
